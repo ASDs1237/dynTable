@@ -1,0 +1,11 @@
+/* src/App.css */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
